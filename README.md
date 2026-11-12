@@ -127,7 +127,7 @@ CI fails when the skills here differ from those sources.
 | `wiro-react-native` | [ReactNative-QuickStart](https://github.com/wiroai/ReactNative-QuickStart) | React Native and Expo apps on the Wiro AI SDK |
 | `wiro-swift` | [Swift-QuickStart](https://github.com/wiroai/Swift-QuickStart) | iOS and SwiftUI apps on WiroKit |
 | `wiro-kotlin` | [Kotlin-QuickStart](https://github.com/wiroai/Kotlin-QuickStart) | Android and Kotlin apps on WiroKit |
-| `wiro-n8n` | [n8n-nodes-wiroai](https://github.com/wiroai/n8n-nodes-wiroai) | Wiro AI nodes in n8n workflows |
+| `wiro-n8n` | [n8n-nodes-wiro](https://github.com/wiroai/n8n-nodes-wiro) | The Wiro AI node in n8n workflows |
 | `wiro-github-action` | [Wiro-Action](https://github.com/wiroai/Wiro-Action) | GitHub Actions workflows that call Wiro AI |
 | `wiro-nextjs` | [Wiro-Next-Starter](https://github.com/wiroai/Wiro-Next-Starter) | Next.js App Router features on Wiro AI |
 
@@ -149,7 +149,6 @@ Email [support@wiro.ai](mailto:support@wiro.ai) or open an issue in this reposit
 | [Kotlin-QuickStart](https://github.com/wiroai/Kotlin-QuickStart) | WiroKit, the Wiro AI SDK for Android |
 | [Dart-QuickStart](https://github.com/wiroai/Dart-QuickStart) | Wiro AI SDK for Dart and Flutter, [`wiro` on pub.dev](https://pub.dev/packages/wiro) |
 | [ReactNative-QuickStart](https://github.com/wiroai/ReactNative-QuickStart) | Wiro AI SDK for React Native and Expo, [`@wiro-ai/wiro-react-native` on npm](https://www.npmjs.com/package/@wiro-ai/wiro-react-native) |
-| [n8n-nodes-wiroai](https://github.com/wiroai/n8n-nodes-wiroai) | Wiro AI nodes for n8n, [`@wiro-ai/n8n-nodes-wiroai` on npm](https://www.npmjs.com/package/@wiro-ai/n8n-nodes-wiroai) |
 | [n8n-nodes-wiro](https://github.com/wiroai/n8n-nodes-wiro) | One Wiro AI node for n8n with a searchable model picker, [`@wiro-ai/n8n-nodes-wiro` on npm](https://www.npmjs.com/package/@wiro-ai/n8n-nodes-wiro) |
 | [Wiro-Dify-Plugin](https://github.com/wiroai/Wiro-Dify-Plugin) | Wiro AI plugins for Dify: the LLM gateway as a model provider, plus image, video, speech and music tools |
 | [Wiro-ComfyUI](https://github.com/wiroai/Wiro-ComfyUI) | Wiro AI nodes for ComfyUI |
