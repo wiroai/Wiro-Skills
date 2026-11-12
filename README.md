@@ -27,6 +27,22 @@ Each skill is a `SKILL.md` file that shows your agent how to do one job with the
 | [`wiro-3d`](./skills/wiro-3d/SKILL.md) | Turns a photo or a description into a 3D model file |
 | [`wiro-models`](./skills/wiro-models/SKILL.md) | Searches and compares models, their inputs and their prices, without running anything |
 
+## See it run
+
+Claude Code with the `wiro-image` skill: it picks a model from the catalog, checks the price against the budget, runs it and saves the file into the project.
+
+<img src="docs/screenshots/claude-code-wiro-image.png" alt="Claude Code loading the wiro-image skill: it asks for a model recommendation, searches the catalog, reads the schema of Flux Fast Text to Image, says about $0.017 per run fits the 5 cent budget, runs it for $0.0096 and saves public/hero-lighthouse-cliff-dawn.png" width="820">
+
+<img src="docs/screenshots/lighthouse-dawn.jpg" alt="The image it made: a flat illustration of a lighthouse on a cliff at dawn" width="420">
+
+Then `wiro-edit-image` turns the same picture into a night scene:
+
+<img src="docs/screenshots/claude-code-wiro-edit-image.png" alt="Claude Code loading the wiro-edit-image skill: it searches the image editing models, reads google/nano-banana, says the edit costs about $0.039, runs it and saves public/hero-lighthouse-cliff-night.png next to the original" width="820">
+
+<img src="docs/screenshots/lighthouse-night.jpg" alt="The edited image: the same lighthouse at night with its beam on and stars in the sky" width="420">
+
+Both are real runs; long tool output is shortened.
+
 ## Install
 
 With [skills.sh](https://skills.sh), for Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot and other agents:
