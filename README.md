@@ -141,6 +141,7 @@ Email [support@wiro.ai](mailto:support@wiro.ai) or open an issue in this reposit
 | --- | --- |
 | [Wiro-Plugin](https://github.com/wiroai/Wiro-Plugin) | Wiro AI plugin for Claude Code, Cursor, Gemini CLI, Devin, Antigravity and Kiro |
 | [Wiro-MCP](https://github.com/wiroai/Wiro-MCP) | Official MCP server for Wiro AI, [`@wiro-ai/wiro-mcp` on npm](https://www.npmjs.com/package/@wiro-ai/wiro-mcp) |
+| [Wiro-Agent-Connectors](https://github.com/wiroai/Wiro-Agent-Connectors) | MCP connectors for Gmail, Shopify, YouTube, Notion and other services without an official MCP server, [`@wiro-ai/wiro-agent-connectors` on npm](https://www.npmjs.com/package/@wiro-ai/wiro-agent-connectors) |
 | [Wiro-LLM](https://github.com/wiroai/Wiro-LLM) | Vercel AI SDK provider for chat, images, speech, transcription and video, [`@wiro-ai/wiro-llm` on npm](https://www.npmjs.com/package/@wiro-ai/wiro-llm) |
 | [Wiro-Chromium-Extension](https://github.com/wiroai/Wiro-Chromium-Extension) | Wiro AI extension for Chrome, Edge, Opera and Brave |
 | [Wiro-Firefox-Extension](https://github.com/wiroai/Wiro-Firefox-Extension) | Wiro AI add-on for Firefox |
